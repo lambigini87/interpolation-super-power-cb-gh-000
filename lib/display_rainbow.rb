@@ -1,8 +1,8 @@
 # Write your #display_rainbow method here
-colors 
+colors
 
 def display_rainbow(colors)
 
-puts "R:#{colors[0]},O:#{colors[0]}"
+puts "R:#{colors[0]}, O:#{colors[1]}"
 
 end
